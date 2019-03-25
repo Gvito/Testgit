@@ -1,3 +1,3 @@
 #TestGit
 
-Mon premier GitHub pour découvrir comment cela fonctionne !
+Mon premier repo GitHub pour découvrir comment cela fonctionne !
